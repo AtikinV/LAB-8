@@ -1,0 +1,28 @@
+Vlas Nichita 
+
+Game idea:
+
+- There is a crab and lobseters, the crab has to go trougth a labyrinth and get to the teleport at the other corner of the labyrinth.
+
+Scenario and characters description:
+
+- The crab has to do it in such way to avoid the lobster at all cost if not the crab will die. The teleport will send him to another level,
+  at the end he will find the ocean where he will escape, thus you won the game. There are two players in this game, one that controls the lobster and one that 
+  controls the crab. 
+
+Characters actions and goals:
+
+- The crab has to get to the teleport in such way to avoid the lobster at all cost if not the crab will die. His main goal is to escape to the ocean. The lobster
+  goal is to not let the crab do that and eat him as soon as  possible.
+
+Progression of Levels:
+
+- Everytime the crab reaches the teleport he goes to another location, this time the lobster speed increases by a little, that way it's harder.
+
+Sources of inspiration: 
+
+- The game Pac Man gave me the idea of the labyrinth and the chasing theme. For the actors I picked them from what we've seen in class.
+
+What skills/interests you are looking for in a team mate:
+
+- The main goal is to be ambitious and have the motivation to work, after that we can acheive every real goal. 
